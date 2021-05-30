@@ -8,10 +8,10 @@ This software allows you to control and log data from the HP 3456A multimeter vi
 
 
 #### The main software window
-![HP 3456A Software]()
+![HP 3456A Software](https://github.com/Niravk1997/HP-3456A-Software/blob/main/Images/HP3456A_Main_Window.gif)
 
 #### Interactive Graphing Module
-![HP 3456A Graph Module]()
+![HP 3456A Graph Module](https://github.com/Niravk1997/HP-3456A-Software/blob/main/Images/HP3456A_Graph_Module.gif)
 
 **Features:**
 - Control and Log data, save data into organized folders
@@ -28,10 +28,10 @@ This software allows you to control and log data from the HP 3456A multimeter vi
 - Capture up to 310  measurement samples in 2 seconds. Fastest sample capture rate compared to any other HP 3456A GUI software.
 
 #### Create Math Waveform
-![HP 3456A Math Waveform]()
+![HP 3456A Math Waveform](https://github.com/Niravk1997/HP-3456A-Software/blob/main/Images/HP3456A_Math_Waveform.gif)
 
 #### Histogram Waveform
-![HP 3456A Histogram]()
+![HP 3456A Histogram](https://github.com/Niravk1997/HP-3456A-Software/blob/main/Images/HP3456A_Histogram_Window.gif)
 
 #### Measurement Table
-![HP 3456A Table]()
+![HP 3456A Table](https://github.com/Niravk1997/HP-3456A-Software/blob/main/Images/HP3456A_Table.gif)
